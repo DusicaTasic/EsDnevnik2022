@@ -1,0 +1,12 @@
+D:\Baze podataka\Osoba\bin\Debug\Osoba.exe.config
+D:\Baze podataka\Osoba\bin\Debug\Osoba.exe
+D:\Baze podataka\Osoba\bin\Debug\Osoba.pdb
+D:\Baze podataka\Osoba\obj\Debug\Osoba.csproj.AssemblyReference.cache
+D:\Baze podataka\Osoba\obj\Debug\Osoba.Osoba.resources
+D:\Baze podataka\Osoba\obj\Debug\Osoba.Properties.Resources.resources
+D:\Baze podataka\Osoba\obj\Debug\Osoba.csproj.GenerateResource.cache
+D:\Baze podataka\Osoba\obj\Debug\Osoba.csproj.CoreCompileInputs.cache
+D:\Baze podataka\Osoba\obj\Debug\Osoba.exe
+D:\Baze podataka\Osoba\obj\Debug\Osoba.pdb
+D:\Baze podataka\Osoba\obj\Debug\Osoba.Meni.resources
+D:\Baze podataka\Osoba\obj\Debug\Osoba.Raspodela.resources
